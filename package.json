@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "classnames": "^2.5.1",
+    "cn": "^0.1.1",
+    "uuid": "^10.0.0"
+  }
+}
