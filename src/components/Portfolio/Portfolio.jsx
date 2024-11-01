@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import Toolbar from "./toolbar";
 import ProjectList from "./Projects";
 import "./portfolio.css";

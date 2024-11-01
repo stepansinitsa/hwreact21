@@ -1,5 +1,5 @@
-import React from "react";
-import "./portfolio.css";
+/* eslint-disable react/prop-types */
+
 import { v4 as uuidv4 } from "uuid";
 
 const ProjectList = ({ projectItem }) => {

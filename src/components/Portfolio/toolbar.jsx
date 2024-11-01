@@ -1,6 +1,6 @@
-import React from "react";
+/* eslint-disable react/prop-types */
+
 import cn from "classnames";
-import "./portfolio.css";
 import { v4 as uuidv4 } from "uuid";
 
 const Toolbar = ({ handleSelectFilter, filters, selected }) => {
